@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Himanshu kumar",
+    "occupation": "freelance developer",
+    "description": "Full Stack Developer with 8 year experience",
+    "image": "himanshu.jpg",
+    "bio": "My name is Himanshu, I'm a Full Stack ReactJS Developer. Currently I'm working as freelancer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "himanshu064@gmail.com",
+    "phone": "+91 9354 721 082",
+    "address": {
+      "street": "Pragati vihar",
+      "city": "Amabala Cantt",
+      "state": "Haryana",
+      "zip": "133001"
+    },
+    "website": "https://himanshu-a31e2.web.app",
+    "resumedownload": "https://himanshu-a31e2.web.app",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/himanshu064",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/himanshu-kumar-76289417/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/himanshu077",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Kuk university",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2012",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Netweb technologies",
+        "title": "Full stack developer",
+        "years": "Feb 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Orem technology Private Limited",
+        "title": "Senior Software Engineer",
+        "years": "Feb 2016 - Feb 2020",
+        "description": ""
+      },
+      {
+        "company": "Macwill information system",
+        "title": "Software Engineer",
+        "years": "Aug 2012 - Jan 2016",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Angular",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bidmii",
+        "category": "Built with ReactJS",
+        "image": "bidmii.jpg",
+        "url": "https://bidmii.com"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A very hard-working and honest developer.",
+        "user": "Miguel Raschid J - Source Freelancer"
+      },
+      {
+        "text": "Superb and very quick and accurate work, fully conversant in NodeJS/ React and relay handled the project easily.I am not hesitate to recommend.They were very professional and patience with me during the whole process",
+        "user": "Heidar H - Source Freelancer"
+      }
+    ]
+  }
+}
