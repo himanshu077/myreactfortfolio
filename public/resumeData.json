@@ -31,6 +31,16 @@
         "name": "github",
         "url": "https://github.com/himanshu077",
         "className": "fa fa-github"
+      },
+      {
+        "name": "Upwork",
+        "url": "https://www.upwork.com/fl/himanshu077",
+        "className": "fa fa-link"
+      },
+      {
+        "name": "freelancer",
+        "url": "https://www.freelancer.in/u/himanshu077",
+        "className": "fa fa-link"
       }
     ]
   },
